@@ -149,9 +149,9 @@ Optical Shop Management System
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahmoudshar0&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudshar0&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -161,7 +161,7 @@ Optical Shop Management System
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoudshar0&theme=tokyonight"/>
 
 </p>
 
@@ -171,7 +171,7 @@ Optical Shop Management System
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoudshar0&theme=tokyo-night"/>
 
 </p>
 
@@ -181,11 +181,12 @@ Optical Shop Management System
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/mahmoud-alsoudy
+">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Mahmoudshar0">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -199,7 +200,7 @@ Optical Shop Management System
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Mahmoudshar0&color=blue"/>
 
 </p>
 
