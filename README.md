@@ -1,58 +1,218 @@
-<h1 align=center>Mahmoud Alsoudy Abo Shar</h1>
-<p align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=52A2B1&background=32323200&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Bug+Bounty+Hunter" alt="Typing SVG" /></a>
+<h1 align="center">
+Hi 👋, I'm Mahmoud Alsoudy
+</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | Backend Engineer | DevOps Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;DevOps+Engineer;React+%7C+Next.js+%7C+Node.js;Docker+%7C+AWS+%7C+CI%2FCD;Always+Learning+New+Technologies" />
 </p>
-<p align=center>a front-end developer with a talent for creating responsive and user-friendly websites. also works as a bug bounty hunter, using my cybersecurity skills to find and report software vulnerabilities. This combination of web development and security expertise makes me a versatile professional.</p>
 
-<h2 align="center">SKILLS</h2>
+---
 
-###
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<br clear="both">
+# 💫 About Me
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-</div>
+I'm a passionate Full Stack Developer from Egypt 🇪🇬
 
-###
+I enjoy building scalable web applications, designing clean architectures, deploying production-ready systems, and solving real-world problems.
 
-<h2 align="center">CONTACT ME</h2>
+Currently focusing on:
 
-###
+- ⚡ Backend Development
+- ☁️ DevOps & Cloud
+- 🐳 Docker
+- 🚀 CI/CD
+- 🤖 AI Integration
+- 🔐 Cybersecurity
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-alsoudy"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
- <a href="https://x.com/Drk_ShArx"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
-  <a href="https://www.facebook.com/mody.mahmoud.9674"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /> </a>
-</div>
+I believe great software isn't just about writing code—it's about creating reliable systems that users love.
 
+---
+
+# 🚀 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+</p>
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,linux,bash,digitalocean,git,github" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,py" />
+</p>
+
+---
+
+# 🏆 Featured Projects
+
+## 🎓 TopScore
+
+Educational Platform for IGCSE & American Diploma.
+
+✔ Secure authentication
+
+✔ Payment Integration
+
+✔ Multi-domain Architecture
+
+✔ Analytics Dashboard
+
+✔ Content Protection
+
+**Stack**
+
+Node.js • Express • MongoDB
+
+---
+
+## 🎓 Manara Platform
+
+Full Learning Management System
+
+- React
+- Node.js
+- MongoDB
+- AWS
+- Vercel
+
+---
+
+## 🐾 Pets Care System
+
+AI-powered graduation project.
+
+Features:
+
+- Appointment Booking
+- Pet Adoption
+- E-commerce
+- Disease Prediction
+- Price Prediction
+- Image Detection
+
+Stack:
+
+React • Node • MongoDB • Flask • Python
+
+---
+
+## 👓 OptiVision POS
+
+Optical Shop Management System
+
+- PostgreSQL
+- Prisma
+- React
+- Node.js
+- JWT
+- Reporting
+- Inventory Management
+
+---
+
+# ☁️ DevOps Skills
+
+- Docker
+- Docker Compose
+- GitHub Actions
+- AWS EC2
+- AWS S3
+- DigitalOcean
+- Hostinger VPS
+- PM2
+- Nginx
+- Linux
+- SSL
+- Deployment Automation
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:dev.mahmoud.alsoudy@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue"/>
+
+</p>
+
+---
+
+<p align="center">
+
+> "First, solve the problem. Then, write the code."
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
