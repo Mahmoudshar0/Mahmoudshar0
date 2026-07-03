@@ -34,10 +34,7 @@ I believe great software isn't just about writing code—it's about creating rel
 
 # 🚀 Tech Stack
 
-# 💻 Tech Stack
-
 <p align="center">
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -54,8 +51,8 @@ I believe great software isn't just about writing code—it's about creating rel
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 </p>
+
 ---
 
 # 🏆 Featured Projects
