@@ -10,7 +10,6 @@ Hi 👋, I'm Mahmoud Alsoudy
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;DevOps+Engineer;React+%7C+Next.js+%7C+Node.js;Docker+%7C+AWS+%7C+CI%2FCD;Always+Learning+New+Technologies" />
 </p>
 
----
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
