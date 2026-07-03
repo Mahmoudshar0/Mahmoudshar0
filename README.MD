@@ -7,7 +7,7 @@ I'm Mahmoud Alsoudy
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Developer;DevOps+Engineer;React+%7C+Next.js+%7C+Node.js;Docker+%7C+AWS+%7C+CI%2FCD;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Backend+Developer;DevOps+Engineer;React+%7C+Next.js+%7C+Node.js;Docker+%7C+AWS+%7C+CI%2FCD;Always+Learning+New+Technologies" />
 </p>
 
 
@@ -17,8 +17,9 @@ I'm Mahmoud Alsoudy
 </p>
 <br /> 
 
-# 💫 About Me
 
+<!-- # About Me -->
+<h1 align="center"> About Me </h1>
 I'm a passionate Full Stack Developer from Egypt 🇪🇬
 
 I enjoy building scalable web applications, designing clean architectures, deploying production-ready systems, and solving real-world problems.
@@ -38,14 +39,14 @@ I believe great software isn't just about writing code—it's about creating rel
 
 <br />
 
-# 🚀 Tech Stack
+# Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cpp,nextjs,angular,tailwind,aiscript,bootstrap,nodejs,express,mongodb,postgres,prisma,python,flask,debian,docker,aws,linux,nginx,bash,githubactions,git,github,materialui,kali,bots,vercel,redhat,redis,terraform,threejs,vscode,postman,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cpp,nextjs,angular,tailwind,aiscript,bootstrap,nodejs,express,mongodb,postgres,prisma,python,flask,debian,docker,aws,linux,nginx,bash,githubactions,git,github,materialui,kali,bots,vercel,redhat,redis,terraform,threejs,vscode,postman,figma&perline=12" />
+
 </p>
 
-<!-- # 📊 GitHub Stats
-
+<!--
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahmoudshar0&show_icons=true&theme=tokyonight"/>
@@ -56,7 +57,7 @@ I believe great software isn't just about writing code—it's about creating rel
 -->
 <br />
 
-# 🚀 Project Skills
+# Project Skills
 
 - 🏗️ Architected and developed scalable full-stack applications with clean, maintainable, and production-ready architectures.
 - ⚡ Built secure, high-performance RESTful APIs with authentication, authorization, RBAC, and optimized database operations.
@@ -71,7 +72,7 @@ I believe great software isn't just about writing code—it's about creating rel
 
 <br />
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoudshar0&theme=tokyonight"/>
@@ -81,7 +82,7 @@ I believe great software isn't just about writing code—it's about creating rel
 
 <br />
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoudshar0&theme=tokyo-night"/>
@@ -90,7 +91,7 @@ I believe great software isn't just about writing code—it's about creating rel
 <br />
 
 
-# 🌎 Connect With Me
+# Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/mahmoud-alsoudy"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp&nbsp&nbsp&nbsp
