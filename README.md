@@ -145,7 +145,7 @@ Optical Shop Management System
 
 ---
 
-# 📊 GitHub Stats
+<!-- # 📊 GitHub Stats
 
 <p align="center">
 
@@ -154,7 +154,7 @@ Optical Shop Management System
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudshar0&layout=compact&theme=tokyonight"/>
 
 </p>
-
+-->
 ---
 
 # 🔥 GitHub Streak
