@@ -16,7 +16,6 @@ I'm Mahmoud Alsoudy
 <img align="center" width="900" src="./cover.jpeg"/>
 </p>
 <br /> 
-&nbsp&nbsp
 
 # 💫 About Me
 
